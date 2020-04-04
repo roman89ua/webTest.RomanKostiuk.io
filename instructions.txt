@@ -1,0 +1,14 @@
+Redesign the CDGS Tips & Tricks homepage
+http://www.coreldraw.com/en/pages/800399.html
+ 
+The Tips & Tricks tutorial homepage still uses our older narrow template; we want to update it to use our new wide 1200px page. Your update should include the following;
+ 
+- Create a new layout that better displays each artists work
+- Use existing copy for each element (title, artist name, introduction)
+- Link to each PDF (can be text, button, hyperlinked image, etc)
+- Use images from current PDF links, which you will need to screenshot and crop
+- Use Bootstrap styles where possible (e.g. layout grid)
+ 
+While you have creative freedom to build this new page, please familiarize yourself with the design aesthetic of CorelDRAW.com first as your design should resemble what we already employ in terms of font sizing, padding/margins, etc. Use this example page for your 1200px template;
+ 
+http://www.coreldraw.com/en/pages/coreldraw-x7/
